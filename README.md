@@ -1,6 +1,6 @@
 # QR Code Generator
 
-A web application for generating and downloading customizable QR codes. With this app, you can easily create QR codes by entering text or URLs, adjusting the size, and selecting colors to match your preferences. The project is built with HTML, CSS, and JavaScript using the `qrcodejs` library.
+A web application for generating and downloading customizable QR codes. With this app, you can easily create QR codes by entering text or URLs, adjusting the size, and selecting colors to match your preferences. The project is built with HTML, CSS, and JavaScript using the `qrcodejs` library..
 
 ## Features
 
